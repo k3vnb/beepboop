@@ -10,7 +10,7 @@ _Enter a number, click submit. If your number contains a zero it will Beep! If i
 
 ## Specifications
 
-* _Go on to the page_
+* _Go on to the page at https://lemurriot.github.io/beepboop/_
 * _Enter a number, click submit_
 * _Revel in the beauty of human-machine communal interaction_
 
@@ -47,6 +47,6 @@ _HTML, CSS, including Bootstrap, and JavaScript including jQuery were used to co
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*Creative Commons (CCPL) License*
 
 Copyright (c) 2017 **_Kevin Boyle_**

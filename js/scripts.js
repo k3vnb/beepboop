@@ -13,8 +13,8 @@ var toBoop = function(x) {
     } else if (beep[i] === "0") {
         beep = "Beep!";
         return beep;
-    }
-    }//end of for loop
+    };
+    };//end of for loop
 
     var newArray = [];
     var superArray = [];
@@ -23,7 +23,7 @@ var toBoop = function(x) {
       var newArray2 = superArray.concat(newArray);
       beep = newArray2.concat(superArray);
     } return beep;
-}//end of big else
+  }//end of big Else
 }//end of Business Logic
 
 
