@@ -38,6 +38,6 @@ $(document).ready(function() {
     var finalAnswer = toBoop(userInput);
     $(".card").show();
     $("#result").append(finalAnswer);
-  }; //end of else statement
-}); //end of .submit function
+    }; //end of else statement
+  }); //end of .submit function
 }); //end of docready.function

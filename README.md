@@ -1,4 +1,4 @@
-# _b33P b00p_
+# _BeepBoop_
 
 #### _BeepBoop is designed to calculate your submitted number into a secret computer code, {10/27/2017}_
 
