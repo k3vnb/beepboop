@@ -18,9 +18,9 @@ var toBoop = function(x) {
       var superArray = [];
       for (var range = 0; range <= x; range++) {
         newArray.push(range);
-        var newArray2 = superArray.push(newArray);
-        beep = newArray2.join("");
-        console.log(beep);
+        var newArray2 = superArray.concat(newArray);
+        // beep = newArray2.join("");
+        beep = newArray2.concat(superArray);
 
       } return beep;
 }
