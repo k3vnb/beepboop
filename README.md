@@ -27,11 +27,12 @@ _{This is a detailed description of your application. Its purpose and usage.  Gi
 * _It can detect if input is multiple of 3 & provide custom feedback_
   * _Example Input: 12_
   * _Example Output: "I'm sorry Dave..."_
-
-* _It can analyze array for 1s && 0s_
+* _It can analyze array for 1s && 0s & provide custom feedback_
   * _Example Input: 1001_
-  * _Example Output: beep boop boop beep_
-* _easy-to-understand_
+  * _Example Output: beep_
+  * _It can take other numeric submissions & output a range from 0 until the that number_
+    * _Example Input: 1001_
+    * _Example Output: beep_
 * _format_
 
 _{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_

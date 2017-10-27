@@ -2,18 +2,30 @@
 var toBoop = function(x) {
   var blip = x.toString();
   var beep = Array.from(blip);
-  // var beep = blip.split("");
   console.log("beep " + beep)
   if (x % 3 === 0) {
     return "I'm sorry, Dave. I'm afraid I can't do that.";
   } else {
     for (var i = 0; i < beep.length; i++) {
-      if (beep[i] === "0") {
-        (beep[i] = "beep");
+    if (beep[i] === "1") {
+        (beep = "Boop!");
         return beep;
-      }
-    }
-  }
+    } else if (beep[i] === "0") {
+    (beep = "Beep!");
+    return beep;
+  } else {
+      var newArray = [];
+      var superArray = [];
+      for (var range = 0; range <= x; range++) {
+        newArray.push(range);
+        var newArray2 = superArray.push(newArray);
+        beep = newArray2.join("");
+        console.log(beep);
+
+      } return beep;
+}
+}//end of for loop
+}//end of big else
 }//end of Business Logic
 
 
