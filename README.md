@@ -8,13 +8,13 @@
 
 _Enter a number, click submit. If your number contains a zero it will Beep! If it contains a 1 it will Boop! If it is a multiple of 3, it will tell you politely it will not work on multiples of 3. Any other number will return a long string of numbers which is actually the full range of numbers from 0 up to the number you input_
 
-## Specifications
+## Setup/Installation Requirements
 
 * _Go on to the page at https://lemurriot.github.io/beepboop/_
 * _Enter a number, click submit_
 * _Revel in the beauty of human-machine communal interaction_
 
-## Setup/Installation Requirements
+## Specifications
 
 * _It can recognize if user enters a numeric value_
   * _Example Input: hello_
