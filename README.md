@@ -28,9 +28,9 @@ _Enter a number, click submit. If your number contains a zero it will Beep! If i
 * _It can analyze array for 1s && 0s & provide custom feedback_
   * _Example Input: 1001_
   * _Example Output: beep_
-  * _It can take other numeric submissions & output a range from 0 until the that number_
-    * _Example Input: 1001_
-    * _Example Output: beep_
+* _It can take other numeric submissions & output a range from 0 until the that number_
+  * _Example Input: 1001_
+  * _Example Output: beep_
 
 
 ## Known Bugs
