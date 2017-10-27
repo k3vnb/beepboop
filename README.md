@@ -1,6 +1,6 @@
 # _b33P b00p_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _{Brief description of application}, {10/27/2017}_
 
 #### By _**{List of contributors}**_
 
@@ -21,12 +21,16 @@ _{This is a detailed description of your application. Its purpose and usage.  Gi
 * _It can recognize if user enters a numeric value_
   * _Example Input: hello_
   * _Example Output: alert("Please Enter Number")_
-  * _It can split a string into an array_
-    * _Example Input: 123_
-    * _Example Output: [1,2,3]_
-  * _It can analyze array for 1s && 0s_
-    * _Example Input: 1001_
-    * _Example Output: beep boop boop beep_
+* _It can split a string into an array_
+  * _Example Input: 123_
+  * _Example Output: [1,2,3]_
+* _It can detect if input is multiple of 3 & provide custom feedback_
+  * _Example Input: 12_
+  * _Example Output: "I'm sorry Dave..."_
+
+* _It can analyze array for 1s && 0s_
+  * _Example Input: 1001_
+  * _Example Output: beep boop boop beep_
 * _easy-to-understand_
 * _format_
 
